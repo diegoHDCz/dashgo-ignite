@@ -17,6 +17,7 @@
     "@types/node": "^17.0.23",
     "@types/react": "^17.0.43",
     "apexcharts": "^3.35.0",
+    "axios": "^0.26.1",
     "framer-motion": "^6.2.8",
     "next": "12.1.4",
     "react": "18.0.0",
